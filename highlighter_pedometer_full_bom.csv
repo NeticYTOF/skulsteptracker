@@ -1,0 +1,12 @@
+Category,Product,Product URL,Quantity,Unit Price (INR),Subtotal (INR),Status,Notes
+Soldering supplies,Solder Wire 0.5mm 50g B Type 35% Tin Content for Electronics,https://robu.in/product/solder-wire-0-5mm-50g-b-type-35-tin-content/,1,289.00,289.00,In Robu cart,Build consumable; not part of finished device
+Soldering supplies,Soldering Iron Stand with Cleaning Sponge,https://robu.in/product/soldering-iron-stand-with-cleaning-sponge/,1,111.00,111.00,In Robu cart,Build tool; not part of finished device
+Electronics,"Seeed Studio XIAO ESP32C3 - tiny MCU board with Wi-Fi and BLE, battery charge supported, power efficiency and rich Interface",https://robu.in/product/seeed-studio-xiao-esp32c3-tiny-mcu-board-with-wi-fi-and-ble-battery-charge-supported-power-efficiency-and-rich-interface/,1,749.00,749.00,In Robu cart,Main microcontroller; USB-C programming and LiPo charging
+Electronics,SmartElex Triple Axis Accelerometer Breakout - BMA400,https://robu.in/product/smartelex-triple-axis-accelerometer-breakout-bma400/,1,379.00,379.00,In Robu cart,Motion/step sensor; shares I2C with OLED
+Electronics,GoldenMorning 0.91 inch 128x32 Blue OLED Display Module with I2C/IIC Serial Interface,https://robu.in/product/0-91-inch-128x32-i2c-iic-serial-blue-oled-lcd-display-module/,1,212.00,212.00,In Robu cart,Display; check outer PCB width against highlighter interior
+Electronics,STS342A4P SMD 3*4*2mm Micro button tact switch 4 pin,https://robu.in/product/sts342a4p-smd-342mm-micro-button-tact-switch-4-pin/,6,1.97,11.82,In Robu cart,"SMD part, requires fine soldering or adapter; only one needed in device; cart contains 6"
+Electronics,5 x 7 cm Universal PCB Prototype Board Single-Sided 2.54mm Hole Pitch,https://robu.in/product/5-x-7-cm-universal-pcb-prototype-board-single-sided-2-54mm-hole-pitch/,1,29.00,29.00,In Robu cart,Cut to size for highlighter shell; check fit before cutting
+TOTAL (cart),,,,,1780.82,Prices supplied by user; incl. GST as shown in Robu cart,
+Still needed / not in cart,Protected 3.7V LiPo battery compatible with the XIAO charging current,,1,,,To source,Check 380mA charge current rating and dimensions; not included in cart total
+Still needed / not in cart,Highlighter enclosure,,1,,,To source,Measure actual internal width/length; do not assume parts will fit
+Still needed / not in cart,Hookup wire / insulated wire,,1,,,To source,For perfboard connections; not included in cart total
